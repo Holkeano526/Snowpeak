@@ -1,0 +1,7 @@
+{
+  "name": "SnowPeak Flash Studio",
+  "description": "Generate hyper-realistic mountain night photos with the iconic iPhone flash look, featuring helicopters, snowboards, and professional snow gear.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
